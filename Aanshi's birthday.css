@@ -1,3 +1,5 @@
-html{
+body{
+    padding: 260px;
     background: linear-gradient( to bottom, pink, white 99.9%);
+    font-family: 'Open Sans', sans-serif;
 }
