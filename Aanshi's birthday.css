@@ -10,11 +10,11 @@ body{
     font-size: 500%;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1000px) {
     /* For mobile phones: */
     body{
         padding: 0px;
-        background: linear-gradient( to bottom, pink, white 99.9%);
+        background: linear-gradient( to bottom, blue, white 99.9%);
         font-family: 'Open Sans', sans-serif;
     }
     .name {
