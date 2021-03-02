@@ -9,18 +9,3 @@ body{
     justify-content: center;
     font-size: 500%;
 }
-
-@media only screen and (max-width: 800px) {
-    /* For mobile phones: */
-    body{
-        padding: 50px;
-        background: linear-gradient( to bottom, blue, white 99.9%);
-        font-family: 'Open Sans', sans-serif;
-    }
-    .name {
-        font-family: 'Open Sans', sans-serif;
-        color: black;
-        justify-content: center;
-        font-size: font-size: 25.5vw;
-    }
-    }
