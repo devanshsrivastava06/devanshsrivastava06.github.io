@@ -2,7 +2,7 @@ body{
    padding: 50px;
     background: linear-gradient( to bottom, pink, white 99.9%);
     font-family: 'Open Sans', sans-serif;
-    background-size: cover;
+/*     background-size: cover; */
 }
 .name {
     font-family: 'Open Sans', sans-serif;
