@@ -10,7 +10,7 @@ body{
     font-size: 500%;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
     /* For mobile phones: */
     body{
         padding: 50px;
