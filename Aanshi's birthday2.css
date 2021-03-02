@@ -1,6 +1,6 @@
 body{
-    padding: 10px;
-    background: linear-gradient( to bottom, BLUE, white 99.9%);
+    padding: 100px;
+    background: linear-gradient( to bottom, pink, white 99.9%);
     font-family: 'Open Sans', sans-serif;
 }
 .name {
