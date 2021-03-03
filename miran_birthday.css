@@ -13,7 +13,7 @@
   body {
     align-items: center;
 /*     background-color: #ffd54f; */
-      background: linear-gradient( to bottom, rgb(54, 236, 236), white 99.9%);
+     background: linear-gradient( to bottom, rgb(54, 236, 236),rgb(230,230,250) 99.9%);
     display: flex;
     font-family: -apple-system, 
       BlinkMacSystemFont, 
