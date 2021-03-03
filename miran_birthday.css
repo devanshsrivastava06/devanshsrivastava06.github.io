@@ -26,7 +26,7 @@
   
   body {
     align-items: center;
-    background : linear-gradient(to bottom,  rgb(35, 211, 211), white 99% )
+    background-color: #ffd54f;
     display: flex;
     font-family: -apple-system, 
       BlinkMacSystemFont, 
